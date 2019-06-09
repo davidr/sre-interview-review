@@ -4,6 +4,8 @@ I've been in management for too long, and I wanted to remember why it was I actu
 with Linux in the first place, so I'm keeping this list of interesting things that I may want to
 review before I interview next and some random notes.
 
+Honestly, this is just a list of interesting things I come across and think could be useful someday.
+
 ## Linux Internals
 
 ### VM Subsystem
