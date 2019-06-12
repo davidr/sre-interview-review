@@ -12,6 +12,7 @@ Honestly, this is just a list of interesting things I come across and think coul
 
 * [Video: The Future of the Linux Page Cache, Matthew Wilcox](https://www.youtube.com/watch?v=xxWaa-lPR-8)
 * [Video: MM 101 - Introduction to Memory Management, Christoph Lameter](https://www.youtube.com/watch?v=i17b3xJv3Uo)
+* [PDF: Linux Memory Management, Kaustubh R. Joshi](http://www.cs.columbia.edu/~krj/os/lectures/L17-LinuxPaging.pdf)
 
 
 ### ELF, shared libraries, etc.
@@ -22,3 +23,4 @@ Honestly, this is just a list of interesting things I come across and think coul
 ### System Calls
 
 * [Packagecloud: The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
+* [MD: Linux Insides, System Calls, 0xAX](https://github.com/0xAX/linux-insides/tree/master/SysCall)
